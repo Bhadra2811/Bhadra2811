@@ -61,5 +61,5 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <br clear="both">
 
 <img src=https://github.com/Bhadra2811/Bhadra2811/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/diya-el-fadhil/diya-el-fadhil/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Bhadra2811/Bhadra2811/blob/output/github-contribution-grid-snake-dark.svg)
 
