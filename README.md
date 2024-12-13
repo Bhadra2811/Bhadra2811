@@ -60,6 +60,4 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/bhadra2811/bhadra2811/output/snake.svg" alt="Snake animation" />
