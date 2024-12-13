@@ -20,7 +20,8 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <br/>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![github troll](https://github.com/user-attachments/assets/a293a433-f07a-4daf-95c0-7b7192e12f4b)
+
 
 
 
